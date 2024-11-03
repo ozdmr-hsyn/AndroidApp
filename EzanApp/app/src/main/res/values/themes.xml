@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.EzanApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Diğer tema ayarları -->
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:windowLightStatusBar">true</item> <!-- Light modda koyu ikonlar için true -->
+    </style>
+</resources>
